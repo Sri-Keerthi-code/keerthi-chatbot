@@ -36,6 +36,7 @@ A lightweight, real-time conversational AI chatbot built using **Python** and **
 ├── chatbot.py # Main application code
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+
 Install dependencies
 
 bash
